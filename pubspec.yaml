@@ -97,7 +97,7 @@ flutter:
       fonts:
         - asset: assets/fonts/Cairo/Cairo-Regular.ttf
         - asset: assets/fonts/Cairo/Cairo-Bold.ttf
-                weight: 700
+                # weight: 700
         - asset: assets/fonts/Cairo/Cairo-Light.ttf
         - asset: assets/fonts/Cairo/Cairo-Black.ttf
   #       - asset: fonts/Schyler-Italic.ttf
